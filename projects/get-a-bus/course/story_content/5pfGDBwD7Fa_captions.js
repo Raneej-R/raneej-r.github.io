@@ -1,0 +1,1 @@
+window.globalLoadJsAsset('story_content/5pfGDBwD7Fa_captions.js', {"captions":[{"langCode":"en-US","data":"WEBVTT%0D%0A%0D%0ANOTE%0D%0AKind%3A%20captions%0D%0ASource%3A%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version%3A%203.118.37026.0%0D%0A%0D%0A00%3A00%3A00.075%20--%3E%2000%3A00%3A01.765%0D%0ATake%20the%20brush%20and%20clean%20them%0D%0A%0D%0A"}]})

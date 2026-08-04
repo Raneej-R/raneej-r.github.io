@@ -826,6 +826,19 @@ h1 {
   background: linear-gradient(145deg, #111a28, #0c111a 70%);
 }
 
+.project-visual--detective {
+  background: #111827;
+}
+
+.project-visual--detective::before,
+.project-visual--detective::after {
+  display: none;
+}
+
+.project-visual--detective .project-number {
+  z-index: 2;
+}
+
 .project-visual--bus::before,
 .project-visual--bus::after {
   display: none;
